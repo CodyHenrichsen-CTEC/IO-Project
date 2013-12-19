@@ -40,6 +40,9 @@ public class IOController
 		return projectGames;
 	}
 
+	/**
+	 * Starts the program so it all can run effectively!@!!
+	 */
 	public void start()
 	{
 		appFrame = new IOFrame(this);
