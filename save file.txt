@@ -1,0 +1,8 @@
+hopscotch
+2
+throw rock on pattern
+jump to rock
+pickup rock
+jump back
+repeat
+;
