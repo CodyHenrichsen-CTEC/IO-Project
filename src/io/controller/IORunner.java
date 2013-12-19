@@ -9,7 +9,7 @@ public class IORunner
 {
 	public static void main(String [] args)
 	{
-		IOController appController = new IOController();
-		appController.start();
+		IOController ioAppController = new IOController();
+		ioAppController.start();
 	}
 }
