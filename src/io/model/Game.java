@@ -33,6 +33,7 @@ public class Game
 		gameRules = new ArrayList<String>();
 		funRanking = 0;
 		gameTitle = "";
+		//This line will be ignored again
 	}
 	
 	/**
